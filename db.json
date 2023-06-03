@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "password": "1234",
+      "block": "AB2",
+      "floor": "g",
+      "room": "7",
+      "date": "2023-05-27T11:08:31.138Z"
+    },
+    {
+      "id": "2",
+      "password": "1234",
+      "block": "AB2",
+      "floor": "s",
+      "room": "8",
+      "date": "2023-05-27T11:09:22.671Z"
+    },
+    {
+      "id": "3",
+      "password": "1234",
+      "block": "AB1",
+      "floor": "G",
+      "room": "7",
+      "date": "2023-05-29T13:45:40.950Z"
+    }
+  ],
+  "complaints": [
+    {
+      "block": "AB2",
+      "room": "8",
+      "floor": "s",
+      "type": "Projector",
+      "description": "not working",
+      "userid": "2",
+      "date": "2023-05-29T14:47:07.112Z",
+      "status": "Issue Solved",
+      "statusdesc": "Solved",
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
